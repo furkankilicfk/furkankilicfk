@@ -31,8 +31,7 @@
 
 <details>
 <summary>:bulb: GitHub Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=furkankilicfk&theme=radical
-"/></details>
+<img src="https://github-readme-stats.vercel.app/api?username=furkankilicfk&theme=radical"/></details>
 
 <br />
 <br />
