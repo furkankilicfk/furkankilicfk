@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Furkan :blush:
 
-## Jr. Frontend Developer
+## Jr. Software Developer
 
 <font color="orange">My philosophy is lifelong learning, practice and development :runner: :loop: </font>
 
